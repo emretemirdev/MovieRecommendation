@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.15.zip!/jackson-databind-2.15/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.15.zip!/jackson-databind-2.15/src/test-jdk14/java" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.15.zip!/jackson-databind-2.15/src/test-jdk17/java" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.15.zip!/jackson-databind-2.15/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
