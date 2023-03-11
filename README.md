@@ -11,6 +11,6 @@ Jackson Databind Library 2.13.0
 ##JSON Data Format
 The JSON data should be an array of movie objects, each with the following properties:
 >title (string)
->cast (array of strings)
->genres (array of strings)
->releaseYear (integer)
+>>cast (array of strings)
+>>>genres (array of strings)
+>>>>releaseYear (integer)
