@@ -13,11 +13,11 @@ Jackson Databind Library 2.13.0
 -title (string)
 -cast (array of strings)
 -genres (array of strings)
--releaseYear (integer)
+-releaseYear (integer) 
 
 ### Example
 
-```[
+\```\[
     {
         "title": "The Shawshank Redemption",
         "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
