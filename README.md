@@ -32,7 +32,7 @@ The JSON data should be an array of movie objects, each with the following prope
     },
     ...
 ]
-
+```
 ##Installation
 
 Clone this repository locally.
