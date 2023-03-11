@@ -8,7 +8,7 @@ The user is prompted to enter a comma-separated list of their liked actors and g
 Jackson Core Library 2.13.0
 Jackson Databind Library 2.13.0
 
-##JSON Data Format
+## JSON Data Format
 ```The JSON data should be an array of movie objects, each with the following properties:
 -title (string)
 -cast (array of strings)
