@@ -16,8 +16,8 @@ Jackson Databind Library 2.13.0
 -releaseYear (integer)
 
 ### Example
-```
-[
+
+```[
     {
         "title": "The Shawshank Redemption",
         "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
@@ -32,5 +32,3 @@ Jackson Databind Library 2.13.0
     },
     ...
 ]
-
-```
