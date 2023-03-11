@@ -15,7 +15,7 @@ The JSON data should be an array of movie objects, each with the following prope
 -genres (array of strings)
 -releaseYear (integer) 
 
-## Example
+### Example
 
 ```[
     {
@@ -32,3 +32,25 @@ The JSON data should be an array of movie objects, each with the following prope
     },
     ...
 ]
+
+##Installation
+
+Clone this repository locally.
+Make sure Java JDK is installed.
+Use Maven to install dependencies. Type mvn install in the command line.
+To run the application, type java -jar MovieRecommender.jar in the command line.
+Usage
+
+##Start the application.
+Enter the actor and category preferences separated by commas.
+The recommended movies will be listed.
+Development
+If you want to make changes to the code or add a new feature, follow these steps:
+
+##Clone this repository locally.
+Make changes to the code.
+Run tests to verify the changes. Type mvn test in the command line.
+Compile the code by typing mvn package.
+To run the application, type java -jar target/MovieRecommender.jar in the command line.
+Contribution
+If you would like to contribute, please fork this repository and submit a pull request.
