@@ -14,3 +14,23 @@ Jackson Databind Library 2.13.0
 -cast (array of strings)
 -genres (array of strings)
 -releaseYear (integer)
+
+### Example
+```
+[
+    {
+        "title": "The Shawshank Redemption",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "genres": ["Drama"],
+        "releaseYear": 1994
+    },
+    {
+        "title": "The Godfather",
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "genres": ["Crime", "Drama"],
+        "releaseYear": 1972
+    },
+    ...
+]
+
+```
