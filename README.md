@@ -52,5 +52,6 @@ Make changes to the code.
 Run tests to verify the changes. Type mvn test in the command line.
 Compile the code by typing mvn package.
 To run the application, type java -jar target/MovieRecommender.jar in the command line.
-Contribution
+
+## Contribution
 **If you would like to contribute, please fork this repository and submit a pull request.**
