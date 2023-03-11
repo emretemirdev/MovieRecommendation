@@ -15,9 +15,9 @@ The JSON data should be an array of movie objects, each with the following prope
 -genres (array of strings)
 -releaseYear (integer) 
 
-### Example
+## Example
 
-\```\[
+```[
     {
         "title": "The Shawshank Redemption",
         "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
